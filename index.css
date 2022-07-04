@@ -1,0 +1,35 @@
+body{
+    padding: 20px ;
+    z-index:0;
+    background-color: #e85151;
+    color: white;
+}
+
+.navbar-light {
+     background-color: #FFFFFF;
+     width: 50%;
+
+}
+
+.center{
+  width: 50%;
+  margin:auto;
+}
+
+.img{
+  background-size: 100% 100%;
+}
+
+
+.row_1 {
+  display: flex;
+}
+
+
+.column_1 {
+  flex: 50%;
+  text-align: center;
+  height: auto;
+  margin-bottom: 20px;
+
+}
